@@ -4,7 +4,7 @@ local UserName = Player.Name
 
 if UserName == "Romj7492" then
   script_key = "CCadLNixTDAbecGTmtZZLnCXLzWOPFQe"
-    getgenv().SelectedPlayer = "UEssss" -- Main Account/ Account To Send Gem
+    getgenv().SelectedPlayer = "Romj7492" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -22,8 +22,8 @@ if UserName == "Romj7492" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "pbecyhik" then
   script_key = "CCadLNixTDAbecGTmtZZLnCXLzWOPFQe"
-    getgenv().SelectedPlayer = "UESSSSSS" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().SelectedPlayer = "Romj7492" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
@@ -166,8 +166,8 @@ elseif UserName == "noldiqig" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "rjlworap" then
   script_key = "CCadLNixTDAbecGTmtZZLnCXLzWOPFQe"
-    getgenv().SelectedPlayer = "UESSSSSS" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().SelectedPlayer = "Romj7492" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
@@ -184,8 +184,8 @@ elseif UserName == "rjlworap" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "lcgvbyds" then
   script_key = "CCadLNixTDAbecGTmtZZLnCXLzWOPFQe"
-    getgenv().SelectedPlayer = "UESSSSSS" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().SelectedPlayer = "Romj7492" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
@@ -202,8 +202,8 @@ elseif UserName == "lcgvbyds" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "Flextwinge9768" then
   script_key = "CCadLNixTDAbecGTmtZZLnCXLzWOPFQe"
-    getgenv().SelectedPlayer = "UESSSSSS" -- Main Account/ Account To Send Gem
-    getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
+    getgenv().SelectedPlayer = "Romj7492" -- Main Account/ Account To Send Gem
+    getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
