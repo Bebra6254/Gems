@@ -9,7 +9,7 @@ if UserName == "Romj7492" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -27,7 +27,7 @@ elseif UserName == "pbecyhik" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -45,7 +45,7 @@ elseif UserName == "eleojxmj" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -63,7 +63,7 @@ elseif UserName == "uqnyxwdm" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -81,7 +81,7 @@ elseif UserName == "jtwcovmv" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -99,7 +99,7 @@ elseif UserName == "aixuznaw" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -117,7 +117,7 @@ elseif UserName == "xhcxyygc" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -135,7 +135,7 @@ elseif UserName == "espqemxh" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -153,7 +153,7 @@ elseif UserName == "noldiqig" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -171,7 +171,7 @@ elseif UserName == "rjlworap" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -189,7 +189,7 @@ elseif UserName == "lcgvbyds" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -207,7 +207,7 @@ elseif UserName == "Flextwinge9768" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -225,7 +225,7 @@ elseif UserName == "Blastrun8221" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -243,7 +243,7 @@ elseif UserName == "Tosslespin3286" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -261,7 +261,7 @@ elseif UserName == "Geartwinge6881" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -279,7 +279,7 @@ elseif UserName == "Swiftwhistle4418" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -297,7 +297,7 @@ elseif UserName == "Flexwizzle0514" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -315,7 +315,7 @@ elseif UserName == "Klakt0910" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -333,7 +333,7 @@ elseif UserName == "Fastfixxit9126" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -351,7 +351,7 @@ elseif UserName == "Blakup5031" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -369,7 +369,7 @@ elseif UserName == "Togglespin2323" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -387,7 +387,7 @@ elseif UserName == "Stormswitch9362" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -405,7 +405,7 @@ elseif UserName == "Glaxulm9080" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -423,7 +423,7 @@ elseif UserName == "Witfut2086" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -441,7 +441,7 @@ elseif UserName == "Steelstep3202" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -459,7 +459,7 @@ elseif UserName == "Thistleblast2351" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -477,7 +477,7 @@ elseif UserName == "Jumptwinge5461" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -495,7 +495,7 @@ elseif UserName == "Whindlenozzle6759" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -513,7 +513,7 @@ elseif UserName == "Blastgrind5258" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -531,7 +531,7 @@ elseif UserName == "jdyfmqeu" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -549,7 +549,7 @@ elseif UserName == "hhqpgzcp" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -567,7 +567,7 @@ elseif UserName == "Snafko4170" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -585,7 +585,7 @@ elseif UserName == "ezvdojpz" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -603,7 +603,7 @@ elseif UserName == "rejyqxir" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -621,7 +621,7 @@ elseif UserName == "rvwvqgsf" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -639,7 +639,7 @@ elseif UserName == "atvkurwx" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -657,7 +657,7 @@ elseif UserName == "sjsykgod" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -675,7 +675,7 @@ elseif UserName == "Blastrun3154" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -693,7 +693,7 @@ elseif UserName == "ybaukfqr" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
@@ -711,7 +711,7 @@ elseif UserName == "ahdzipgh" then
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
     getgenv().MainAccountSetting = { -- Unit To Sell
-        Units = {"Electric Cyborg","Magic Arrow"},
+        Units = {"Electric Cyborg","Cursed Archer"},
         ManuallyClaimBooth = false,
     }
     getgenv().AltAccountSetting = {
